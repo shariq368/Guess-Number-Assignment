@@ -1,1 +1,1 @@
-# Guess-Number-Assignment Guess Number in typescript
+Guess Number in Typescript
